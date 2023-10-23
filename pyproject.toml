@@ -1,7 +1,7 @@
 [project]
-name = "hello-LEESUNG02"
-version = "0.3.0"
-description = "The Python program"
+name = ""
+version = ""
+description = ""
 authors = [
     {name = "LEESUNG02", email = "leesung02@naver.com"},
 ]
@@ -9,10 +9,6 @@ dependencies = []
 requires-python = ">=3.8"
 readme = "README.md"
 license = {text = "MIT"}
-
-[build-system]
-requires = ["pdm-backend"]
-build-backend = "pdm.backend"
 
 [tool.pdm.dev-dependencies]
 test = [
